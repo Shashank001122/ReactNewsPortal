@@ -8,7 +8,7 @@ Node.js, Express, React, AJAX, JSON, APIs, HTML5, CSS, Amazon Web Services.
 Bing AutoSuggest API, Guardian API, New york Time Api, Twitter API, Comment Box API
 
 **<h1>Features</h1>**
-1) Autocomplete is implemented using Bing Auto Suggest API and React bootstrap library for search bar.
+1) Autocomplete is implemented using Bing Auto Suggest API.
 2) In case the user want to share the Card he can use share button present on every card which calls Twitter, Facebook, Email API with a custom message, which users can write before sharing.
 3) There are sections like World,Politics,Business,Technology,Sports for Guardian and New york Times.
 4) Toggle at top right screen to choose between New york Times and Guardian.
